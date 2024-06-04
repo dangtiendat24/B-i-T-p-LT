@@ -1,0 +1,14 @@
+C:\Users\Dang Dat\source\repos\BaiTapLT_Ex1\bin\Debug\net8.0\BaiTapLT_Ex1.exe
+C:\Users\Dang Dat\source\repos\BaiTapLT_Ex1\bin\Debug\net8.0\BaiTapLT_Ex1.deps.json
+C:\Users\Dang Dat\source\repos\BaiTapLT_Ex1\bin\Debug\net8.0\BaiTapLT_Ex1.runtimeconfig.json
+C:\Users\Dang Dat\source\repos\BaiTapLT_Ex1\bin\Debug\net8.0\BaiTapLT_Ex1.dll
+C:\Users\Dang Dat\source\repos\BaiTapLT_Ex1\bin\Debug\net8.0\BaiTapLT_Ex1.pdb
+C:\Users\Dang Dat\source\repos\BaiTapLT_Ex1\obj\Debug\net8.0\BaiTapLT_Ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dang Dat\source\repos\BaiTapLT_Ex1\obj\Debug\net8.0\BaiTapLT_Ex1.AssemblyInfoInputs.cache
+C:\Users\Dang Dat\source\repos\BaiTapLT_Ex1\obj\Debug\net8.0\BaiTapLT_Ex1.AssemblyInfo.cs
+C:\Users\Dang Dat\source\repos\BaiTapLT_Ex1\obj\Debug\net8.0\BaiTapLT_Ex1.csproj.CoreCompileInputs.cache
+C:\Users\Dang Dat\source\repos\BaiTapLT_Ex1\obj\Debug\net8.0\BaiTapLT_Ex1.dll
+C:\Users\Dang Dat\source\repos\BaiTapLT_Ex1\obj\Debug\net8.0\refint\BaiTapLT_Ex1.dll
+C:\Users\Dang Dat\source\repos\BaiTapLT_Ex1\obj\Debug\net8.0\BaiTapLT_Ex1.pdb
+C:\Users\Dang Dat\source\repos\BaiTapLT_Ex1\obj\Debug\net8.0\BaiTapLT_Ex1.genruntimeconfig.cache
+C:\Users\Dang Dat\source\repos\BaiTapLT_Ex1\obj\Debug\net8.0\ref\BaiTapLT_Ex1.dll
